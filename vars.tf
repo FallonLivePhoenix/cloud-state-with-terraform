@@ -7,7 +7,6 @@ variable AMIS {
     default = {
     us-east-2 = "ami-00d8a762cb0c50254"
     us-east-2 = "ami-0fc161d91b03576d0"
-    }
 }
 
 variable PRIV_KEY_PATH {
