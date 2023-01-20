@@ -24,18 +24,7 @@ variable USERNAME {
 
 variable MYIP {
     default = 192.168.0.33
-}
 
-variable rmquser {
-    default = "rabbit"
-}
-
-variable rmqpass {
-    default = "Gr33n@pple123456"
-}
-
-variable dbname {
-    default = "admin123"
 }
 
 variable instance_count {
